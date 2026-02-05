@@ -2,8 +2,8 @@
 
 **`Análista de Dados`**
 
-Me chamo Rafael Oliveira, tenho 23 anos e sou natural de São Paulo.
-Concluí um bootcamp intensivo de análise de dados, onde desenvolvi habilidades práticas em manipulação, análise e visualização de dados você pode acessar os meus repositorios publicos para visualizar alguns dos meus projetos na área de dados. Atualmente estou cursando Engenharia da computação na Universade São Judas Tadeu e cursando SGBDs na instituição Hashtag.
+Me chamo Rafael Oliveira, tenho 24 anos e sou natural de São Paulo.
+Concluí um bootcamp intensivo de análise de dados, onde desenvolvi habilidades práticas em manipulação, análise e visualização de dados você pode acessar os meus repositorios publicos para visualizar alguns dos meus projetos na área de dados. Atualmente estou cursando Engenharia da computação na Universade São Judas Tadeu, finalizei o curso de SGBDs na instituição Hashtag Treinamentos e  estou Power BI na instituição Hashtag.
 
 ---
 
