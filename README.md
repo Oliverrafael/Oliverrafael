@@ -2,8 +2,11 @@
 
 **`Análista de Dados`**
 
-Me chamo Rafael Oliveira, tenho 24 anos e sou natural de São Paulo.
-Concluí um bootcamp intensivo de análise de dados, onde desenvolvi habilidades práticas em manipulação, análise e visualização de dados você pode acessar os meus repositorios publicos para visualizar alguns dos meus projetos na área de dados. Atualmente estou cursando Engenharia da computação na Universade São Judas Tadeu, finalizei o curso de SGBDs na instituição Hashtag Treinamentos e  estou me aprofundando em Power BI pela instituição da Hashtag.
+Me chamo Rafael, tenho 25 anos e estou cursando Engenharia da Computação pela Universidade São Judas Tadeu. Ao longo da faculdade, busquei complementar minha formação com cursos e certificações voltados à área de tecnologia e dados.
+
+Concluí um bootcamp intensivo de 1 ano pela TripleTen Brasil, no qual desenvolvi mais de doze projetos práticos em análise de dados e adquiri experiência com ferramentas como Python, SQL e Tableau. Durante esse período, trabalhei com pré-processamento e manipulação de dados utilizando Pandas e NumPy, criação de visualizações com Matplotlib e Seaborn, além de aplicar conceitos de testes A/B e dar meus primeiros passos em Machine Learning com Scikit-Learn. Também possuo conhecimento em metodologias ágeis, com certificação em Scrum.
+
+Após a conclusão do bootcamp, finalizei um curso de aprofundamento em SQL voltado para bancos de dados e atualmente estou me especializando em Power BI pela instituição Hashtag Treinamentos.
 
 ---
 
